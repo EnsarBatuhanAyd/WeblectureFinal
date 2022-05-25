@@ -76,8 +76,49 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
     -->
 </body>
-<footer style="display:flex; justify-content:center; color:white; background-color:black;">
-  <p>Galeri 2022</p>
- 
-</footer>
+
+<footer class="container-fluid bg-grey py-5">
+<div class="container">
+   <div class="row">
+      <div class="col-md-9">
+         <div class="row">
+            <div class="col-md-6 ">
+               <div class="logo-part">
+                  <h1 class="logo-footer">Galeri</h1>
+                  <p>Konya.Türkiye</p>
+                  <p>Özgün bir tasarım galeri sitesi..</p>
+               </div>
+            </div>
+            <div class="col-md-6 px-4">
+               <h6>Hakkımızda</h6>
+               <p>Mükkemel kalitedeki görüntüler ile..</p>
+               <a href="#" class="btn-footer"> Daha Fazla Bilgi </a><br>
+               <a href="admin.php" class="btn-footer"> Admin Girişi</a>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-3">
+         <div class="row">
+            <div class="col-md-6 px-4">
+               <h6> Kategoriler</h6>
+               <div class="row ">
+                  <div class="col-md-6">
+                     <ul>
+                        <li> <a href="sehirler.php"> Şehirler</a> </li>
+                        <li> <a href="doga.php"> Doğa</a> </li>
+                        <li> <a href="ilginc.php"> İlginç</a> </li>
+                        <li> <a href="tarih.php"> Tarih</a> </li>
+                       
+                     </ul>
+                  </div>
+                  
+               </div>
+            </div>
+           
+         </div>
+      </div>
+
+   </div>
+</div>
+</div></footer>
 </html>

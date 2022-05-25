@@ -30,14 +30,16 @@
    
         <nav >
             
-                <ul class="nav">
-                    <li class="nav-link"><a href="./admin.php">Anasayfa</a></li>
-                    <li class="nav-link"><a href="./profile.php">Profil</a></li>
-                    <li class="nav-link"><a href="./upload.php">Resimler</a></li>
-                    <li class="nav-link"><a href="./resimDuzenle.php">Resim Düzenle</a></li>
-                    <li class="nav-link"><a href="./register.php">Üye Ekle</a></li>
-                    <li class="nav-link"><a href="./uyeDuzenle.php">Üye Düzenle</a></li>
-                </ul>
+        <ul class="nav">
+                            <li class="nav-link"><a href="./admin.php">Anasayfa</a></li>
+                            <li class="nav-link"><a href="./profile.php">Profil</a></li>
+                            <li class="nav-link"><a href="./upload.php">Resim Ekle</a></li>
+                            <li class="nav-link"><a href="./resimDuzenle.php">Resim Düzenle</a></li>
+                            <li class="nav-link"><a href="./register.php">Üye Ekle</a></li>
+                            <li class="nav-link"><a href="./uyeDuzenle.php">Üye Düzenle</a></li>
+                            <li class="nav-link"><a href="./index.php">Siteye Dön</a></li>
+                            <li class="nav-link"><a href="./login.php">Çıkış Yap</a></li>
+                        </ul>
         
         </nav>
     </div>
